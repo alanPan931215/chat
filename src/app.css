@@ -1,0 +1,53 @@
+html {
+  background-color: #787d81;
+}
+
+.el-header {
+  background-color: #787d81;
+  color: #333;
+  text-align: center;
+  line-height: 60px;
+}
+.el-aside {
+  background-color: #d3dce6;
+  color: #333;
+  text-align: center;
+  line-height: 200px;
+}
+
+.el-main {
+  background-color: #e9eef3;
+  color: #333;
+  text-align: center;
+  line-height: 160px;
+}
+
+.form-control {
+  margin: 30px;
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.shadow {
+  margin-right: 60px;
+  padding: 0 40px;
+  border-radius: 30px;
+  box-shadow: 0 2px 4px #17a2b8, 0 0 6px #007bff;
+}
+.namestyle {
+  font-style: italic;
+  font-size: 20px;
+}
